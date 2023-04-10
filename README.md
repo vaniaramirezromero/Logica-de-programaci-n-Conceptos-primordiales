@@ -1,4 +1,4 @@
-# Logica de programación Conceptos primordiales
+# Programming logic Fundamental concepts
 Take this course for the Oracle ONE Education program - Programming Logic: Fundamental Concepts
 ****Programming Logic: Core Concepts****
 
